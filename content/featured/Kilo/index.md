@@ -8,7 +8,7 @@ tech:
   - React
   - TypeScript
   - FastAPI
-  - ASP.NET(C#)
+  - Interswitch API
 ---
 
 A web app for built for users to be able to register smart meters and list extra energy gotten from their solar panels for sale to other users who would need quick and cheap electricity.
