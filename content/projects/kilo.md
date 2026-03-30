@@ -7,7 +7,7 @@ tech:
   - React
   - TypeScript
   - FastAPI
-  - ASP.NET(C#)
+  - Interswitch API
 company: 'Personal'
 showInProjects: true
 ---

@@ -7,7 +7,7 @@ range: 'September 2025 - October 2025'
 url: 'https://www.futureinterns.com/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Completed a structured internship delivering three production-grade full-stack projects, each targeting a distinct domain and technology stack.
+- Developed a Spotify-inspired developer portfolio with a custom backend API serving dynamic project, experience, and skills data — demonstrating end-to-end full-stack integration.
+- Built a fully functional e-commerce platform with a product catalogue sourced from a structured dataset, integrating Cloudinary as a cloud-based CMS for scalable media management.
+- Engineered a luxury fashion brand website featuring an AI-assisted product presentation layer, with complete cloud deployment across all services.

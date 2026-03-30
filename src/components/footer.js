@@ -109,7 +109,7 @@ const Footer = () => {
           <div>Portfolio of Setemi Loye</div>
           <div>Initial Design by Brittany Chiang</div>
 
-          {githubInfo.stars && githubInfo.forks && (
+          {githubInfo.stars > 0 && githubInfo.forks > 0 && (
             <div className="github-stats">
               <span>
                 <Icon name="Star" />
