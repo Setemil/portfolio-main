@@ -1,7 +1,6 @@
 ---
 date: '2025-09-19'
 title: 'A Spotify Themed Portfolio'
-cover: './demo.png'
 github: 'https://github.com/Setemil/FUTURE_FS_01'
 external: 'https://portfolio-flame-eta-10.vercel.app/'
 tech:

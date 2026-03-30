@@ -1,7 +1,6 @@
 ---
 date: '2026-03-27'
 title: 'Kilo'
-cover: './demo.png'
 github: 'https://github.com/setemil/GridPay'
 external: 'https://grid-pay-umber.vercel.app/'
 tech:

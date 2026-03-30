@@ -1,7 +1,6 @@
 ---
 date: '2025-07-07'
 title: 'Glossed By Love'
-cover: './glossed.png'
 github: 'https://github.com/setemil/Glossed-By-Love'
 external: 'https://setemil.github.io/Glossed-By-Love/'
 tech:
